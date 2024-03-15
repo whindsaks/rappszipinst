@@ -1,0 +1,2 @@
+# rappszipinst
+.zip installer preview
